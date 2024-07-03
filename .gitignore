@@ -1,0 +1,6 @@
+*.obj
+log.*
+postProcessing/
+processor?/
+constant/polyMesh/
+*.unv
